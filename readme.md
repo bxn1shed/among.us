@@ -1,6 +1,6 @@
 **susify**
 
-*Sus-ify your strings!*
+Change the word "among us" or "sus" to the among us icon using a simple function
 
 **REQUIRES NODE.JS v15 OR ABOVE**
 
